@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21362753486",
+    "project_id": "memeous04",
+    "storage_bucket": "memeous04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21362753486:android:0a90ff09de16992c69f59f",
+        "android_client_info": {
+          "package_name": "com.aqueous.memeous"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21362753486-iibp73s9ds6ojvffo0aij2vhig6kl2bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {        
+          "current_key": "AIzaSyB6oxxL-HdXIJbQE8siRHRw8eC_6tiRJIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21362753486-iibp73s9ds6ojvffo0aij2vhig6kl2bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

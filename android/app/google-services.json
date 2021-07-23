@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15756093350",
+    "project_id": "aqueriomeme",
+    "storage_bucket": "aqueriomeme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15756093350:android:f2dbb59b33cb68af171167",
+        "android_client_info": {
+          "package_name": "com.aquerio.memeous"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15756093350-3qg76jhl6v46ipjtm5fei4pm3nbg935e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8krL8XqMCKh454vOUQzVd61mtFD8uj9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15756093350-3qg76jhl6v46ipjtm5fei4pm3nbg935e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,79 @@
+3:09:09 PM: Executing task 'signingReport'...
+
+Executing tasks: [signingReport] in project E:\coding practice\apps\memeous_app\android\app
+
+Starting Gradle Daemon...
+Gradle Daemon started in 11 s 79 ms
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\Mahir\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 0A:F4:8A:1B:C2:B9:6C:60:A6:32:50:CC:E0:2B:8E:6A
+SHA1: F4:9D:EA:EF:44:9E:FE:BA:C6:07:A2:63:B4:16:4D:2B:3A:E5:6D:61
+SHA-256: 3C:8A:8F:22:7D:56:1C:19:00:01:4F:48:4E:A1:DE:BA:71:9F:4B:CF:96:A7:1A:03:05:23:FE:35:41:E2:AA:B1
+Valid until: Wednesday, April 19, 2051
+----------
+Variant: release
+Config: debug
+Store: C:\Users\Mahir\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 0A:F4:8A:1B:C2:B9:6C:60:A6:32:50:CC:E0:2B:8E:6A
+SHA1: F4:9D:EA:EF:44:9E:FE:BA:C6:07:A2:63:B4:16:4D:2B:3A:E5:6D:61
+SHA-256: 3C:8A:8F:22:7D:56:1C:19:00:01:4F:48:4E:A1:DE:BA:71:9F:4B:CF:96:A7:1A:03:05:23:FE:35:41:E2:AA:B1
+Valid until: Wednesday, April 19, 2051
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\Mahir\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 0A:F4:8A:1B:C2:B9:6C:60:A6:32:50:CC:E0:2B:8E:6A
+SHA1: F4:9D:EA:EF:44:9E:FE:BA:C6:07:A2:63:B4:16:4D:2B:3A:E5:6D:61
+SHA-256: 3C:8A:8F:22:7D:56:1C:19:00:01:4F:48:4E:A1:DE:BA:71:9F:4B:CF:96:A7:1A:03:05:23:FE:35:41:E2:AA:B1
+Valid until: Wednesday, April 19, 2051
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Mahir\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 0A:F4:8A:1B:C2:B9:6C:60:A6:32:50:CC:E0:2B:8E:6A
+SHA1: F4:9D:EA:EF:44:9E:FE:BA:C6:07:A2:63:B4:16:4D:2B:3A:E5:6D:61
+SHA-256: 3C:8A:8F:22:7D:56:1C:19:00:01:4F:48:4E:A1:DE:BA:71:9F:4B:CF:96:A7:1A:03:05:23:FE:35:41:E2:AA:B1
+Valid until: Wednesday, April 19, 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\Mahir\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 0A:F4:8A:1B:C2:B9:6C:60:A6:32:50:CC:E0:2B:8E:6A
+SHA1: F4:9D:EA:EF:44:9E:FE:BA:C6:07:A2:63:B4:16:4D:2B:3A:E5:6D:61
+SHA-256: 3C:8A:8F:22:7D:56:1C:19:00:01:4F:48:4E:A1:DE:BA:71:9F:4B:CF:96:A7:1A:03:05:23:FE:35:41:E2:AA:B1
+Valid until: Wednesday, April 19, 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\Mahir\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 0A:F4:8A:1B:C2:B9:6C:60:A6:32:50:CC:E0:2B:8E:6A
+SHA1: F4:9D:EA:EF:44:9E:FE:BA:C6:07:A2:63:B4:16:4D:2B:3A:E5:6D:61
+SHA-256: 3C:8A:8F:22:7D:56:1C:19:00:01:4F:48:4E:A1:DE:BA:71:9F:4B:CF:96:A7:1A:03:05:23:FE:35:41:E2:AA:B1
+Valid until: Wednesday, April 19, 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\Mahir\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 0A:F4:8A:1B:C2:B9:6C:60:A6:32:50:CC:E0:2B:8E:6A
+SHA1: F4:9D:EA:EF:44:9E:FE:BA:C6:07:A2:63:B4:16:4D:2B:3A:E5:6D:61
+SHA-256: 3C:8A:8F:22:7D:56:1C:19:00:01:4F:48:4E:A1:DE:BA:71:9F:4B:CF:96:A7:1A:03:05:23:FE:35:41:E2:AA:B1
+Valid until: Wednesday, April 19, 2051
+----------
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.
+Use '--warning-mode all' to show the individual deprecation warnings.
+See https://docs.gradle.org/6.7/userguide/command_line_interface.html#sec:command_line_warnings
+
+BUILD SUCCESSFUL in 45s
+1 actionable task: 1 executed
+3:09:55 PM: Task execution finished 'signingReport'.
